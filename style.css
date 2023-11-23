@@ -16,7 +16,7 @@ body {
 
 #logo {
     width: 300px;
-    margin: 15;
+    margin: 0;
     padding: 15;
 }
 
@@ -38,12 +38,12 @@ ol {
 
 .conteudo {
     background-color: blanchedalmond;
-    margin: 15;
+    margin: 0;
     padding: 15;
 }
 
 .rodape {
     background-color: aquamarine;
-    margin: 30;
+    margin: 0;
     padding: 20;
 }
