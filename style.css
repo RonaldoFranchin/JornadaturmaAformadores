@@ -21,6 +21,6 @@ ul{text-align: center;
 ol {text-align: inherit;
     color: rgb(32, 18, 156);}
 
-.itens {background-color: blue;}
-.titulo {background-color: blanchedalmond;}
-.conteúdo {background-color: aquamarine;}
+.cabecalho {background-color: blue;}
+.conteudo {background-color: blanchedalmond;}
+.rodape {background-color: aquamarine;}
