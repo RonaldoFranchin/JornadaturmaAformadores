@@ -33,17 +33,17 @@ ol {
 .cabecalho {
     background-color: blue;
     margin: 0;
-    padding: 0;
+    padding: 2%;
 }
 
 .conteudo {
     background-color: blanchedalmond;
     margin: 0;
-    padding: 15;
+    padding: 5%;
 }
 
 .rodape {
     background-color: aquamarine;
     margin: 0;
-    padding: 20;
+    padding: 5%;
 }
