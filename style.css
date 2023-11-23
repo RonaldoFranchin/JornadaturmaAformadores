@@ -21,6 +21,12 @@ ul{text-align: center;
 ol {text-align: inherit;
     color: rgb(32, 18, 156);}
 
-.cabecalho {background-color: blue;}
-.conteudo {background-color: blanchedalmond;}
-.rodape {background-color: aquamarine;}
+.cabecalho {background-color: blue;
+margin: 0;
+padding: 0;}
+.conteudo {background-color: blanchedalmond;
+margin: 15;
+padding: 15;}
+.rodape {background-color: aquamarine;
+margin: 30;
+padding: 20;}
