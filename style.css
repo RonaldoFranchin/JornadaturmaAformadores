@@ -18,3 +18,5 @@ body{
 }
 ul{text-align: center;
     color: rgb(156, 18, 18);}
+ol {text-align: inherit;
+    color: rgb(156, 18, 18);}
